@@ -1,5 +1,5 @@
 app:
-  # Update your applicationId
+  # ID updated Update your applicationId
   applicationId: ${APP_ID:488ee874-e53f-4c7c-9211-0d0fc61f7fff}
   env: ${APP_ENV:GitHub Actions}
   host: ${APP_HOST:https://localhost:9000}
